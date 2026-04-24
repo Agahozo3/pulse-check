@@ -141,3 +141,4 @@ I added the alert history so that anyone can check how many times a device has g
 
 - main.py — all endpoints and the watchdog thread
 - store.py — thread safe in memory storage
+- requirements.txt — dependencies
